@@ -1,5 +1,5 @@
 // Configuration API pour React Native/Expo
-const PRODUCTION_API_URL = "https://mytripcircle-api.enzo-turpin.fr";
+const PRODUCTION_API_URL = "https://api.mytripcircle.fr";
 
 const API_BASE_URL = PRODUCTION_API_URL;
 
